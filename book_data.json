@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Zindagi Ki Haqeeqat",
+        "author": "Haseeb Abbasi",
+        "year": "2025",
+        "genre": "",
+        "read": true
+    },
+    {
+        "title": "Zindagi ki Haqeeqat",
+        "author": "Haseeb abbasi",
+        "year": "2025",
+        "genre": "Haqeeqat",
+        "read": true
+    },
+    {
+        "title": "Humraz",
+        "author": "Haseeb abbasi",
+        "year": "2024",
+        "genre": "raz",
+        "read": true
+    },
+    {
+        "title": "Zindagi ki Haqeeqat",
+        "author": "Haseeb Abbasi",
+        "year": "2025",
+        "genre": "Haqeeqat",
+        "read": true
+    }
+]
